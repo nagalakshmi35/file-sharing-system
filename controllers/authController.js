@@ -1,4 +1,4 @@
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 const db = require('../config/db');
 const jwt = require('jsonwebtoken');
 const jwtSecret = require('../config/jwtSecret'); // Make sure to store your secret key in a config file
