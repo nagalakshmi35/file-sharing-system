@@ -34,3 +34,13 @@ Future Enhancements
   Authentication: Add JWT-based authentication for secure access,
   File Previews: Support file previews for common file types,
   Sharing Links: Generate public or private sharing links for uploaded files.
+
+# Postman API Collection
+
+## Purpose
+This folder contains the exported Postman collection for the File Sharing System API. Use it to test the available API endpoints.
+
+## Usage
+1. Import the `postman-collection.json` file into Postman.
+2. Configure the environment variables (e.g., API base URL) if needed.
+3. Test the endpoints as needed.
